@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/handgesture/static/css/main.ebbe77f9.css",
+    "main.js": "/handgesture/static/js/main.55ab692e.js",
+    "index.html": "/handgesture/index.html",
+    "main.ebbe77f9.css.map": "/handgesture/static/css/main.ebbe77f9.css.map",
+    "main.55ab692e.js.map": "/handgesture/static/js/main.55ab692e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebbe77f9.css",
+    "static/js/main.55ab692e.js"
+  ]
+}
